@@ -1,25 +1,27 @@
-# LAB - 27
+# LAB - 28
 
-## React Testing Deployment
+## Props and State
 
 ### Author: Lillian Gales
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](https://travis-ci.com/lilliangales-401-advanced-javascript/lab27-react-testing-deployment/builds/128101755)
-* [netlify](https://wonderful-ardinghelli-86dc1e.netlify.com/) 
-* [aws](http://lillian-gales-lab27.s3-website-us-west-2.amazonaws.com/)
+* [Assignment 1 - Props Practice](https://codesandbox.io/s/28-starter-code-props-uv9g5)
+* [Assignment 2 - Internal State Practice](https://codesandbox.io/s/28-starter-code-internal-state-2s5oy)
+
+
+* [travis]()
+* [netlify]() 
+* [aws]()
+
 
 #### Documentation
-* styleguide running on local
+
 
 ### Modules
-#### `header.js`
-#### `footer.js`
-#### `counter.js`
+
 
 #### Tests
 * npm run test
 
 #### UML
-![UML](lab27-uml.jpeg)
+![UML]()
